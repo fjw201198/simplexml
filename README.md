@@ -20,7 +20,7 @@ parse a xml string to the XmlTree object which created by call XmlTree:new()
 3. XmlTree:toString()
 used to encode the xml instance to xml string
 
-4. Add a node named A to the xml tree named B?
+4. Add a node named A to the xml tree named B?  
 the node A also a XmlTree
 just do this:
 ```lua

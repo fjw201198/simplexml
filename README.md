@@ -1,5 +1,5 @@
 # simplexml
-simplexml library for lua, use luajit rather then lua.
+simplexml library for lua, use luajit rather than lua.
 
 # methods
 
